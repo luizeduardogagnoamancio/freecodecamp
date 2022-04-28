@@ -1,0 +1,2 @@
+You can use the hr tag to add a horizontal line across the width of its containing element. 
+This can be used to define a change in topic or to visually separate groups of content.
