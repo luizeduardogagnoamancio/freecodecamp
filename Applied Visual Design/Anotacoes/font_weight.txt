@@ -1,0 +1,2 @@
+A propriedade font-weight define a grossura ou finura dos caracteres de um texto.
+
